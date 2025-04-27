@@ -48,21 +48,21 @@ It also features an **Admin Dashboard** to manage customer tickets and monitor s
 ## 📂 Project Structure
 
 src/ pages/ Home.jsx 
-# Landing page with About AUITS and login/register links Login.jsx 
-# Login form (Firebase Auth) Register.jsx 
-# New user registration form Dashboard.jsx
-# User dashboard after login Profile.jsx 
-# User profile information and documents Tickets.jsx
-# Create and view service tickets Payments.jsx
-# Payment integration page AdminDashboard.jsx
-# Admin-only panel to manage all tickets components/ Navbar.jsx 
-# Navigation bar for the application TicketForm.jsx 
-# Form component to create a new ticket TicketList.jsx
-# Display list of existing tickets InvoiceList.jsx
-# Display list of invoices/payments firebase.js
-# Firebase configuration (Auth + Firestore) App.jsx 
-# Main app routing and layout main.jsx
-# React entry point
+### Landing page with About AUITS and login/register links Login.jsx 
+### Login form (Firebase Auth) Register.jsx 
+### New user registration form Dashboard.jsx
+### User dashboard after login Profile.jsx 
+### User profile information and documents Tickets.jsx
+### Create and view service tickets Payments.jsx
+### Payment integration page AdminDashboard.jsx
+### Admin-only panel to manage all tickets components/ Navbar.jsx 
+### Navigation bar for the application TicketForm.jsx 
+### Form component to create a new ticket TicketList.jsx
+### Display list of existing tickets InvoiceList.jsx
+### Display list of invoices/payments firebase.js
+### Firebase configuration (Auth + Firestore) App.jsx 
+### Main app routing and layout main.jsx
+### React entry point
 
 
 ---
